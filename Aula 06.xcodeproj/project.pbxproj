@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		8990A462212CCCEA004121FA /* MyListsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8990A461212CCCEA004121FA /* MyListsViewController.swift */; };
 		89FEDECE2134E06500F925EA /* SignupTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89FEDECD2134E06500F925EA /* SignupTableViewController.swift */; };
+		89FEDED02134E5B300F925EA /* StoresTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89FEDECF2134E5B300F925EA /* StoresTableViewController.swift */; };
 		F5D3AD672113BB9A00CE3664 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5D3AD662113BB9A00CE3664 /* AppDelegate.swift */; };
 		F5D3AD692113BB9A00CE3664 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5D3AD682113BB9A00CE3664 /* ViewController.swift */; };
 		F5D3AD6C2113BB9A00CE3664 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5D3AD6A2113BB9A00CE3664 /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* Begin PBXFileReference section */
 		8990A461212CCCEA004121FA /* MyListsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyListsViewController.swift; sourceTree = "<group>"; };
 		89FEDECD2134E06500F925EA /* SignupTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupTableViewController.swift; sourceTree = "<group>"; };
+		89FEDECF2134E5B300F925EA /* StoresTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoresTableViewController.swift; sourceTree = "<group>"; };
 		F5D3AD632113BB9A00CE3664 /* Aula 06.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Aula 06.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5D3AD662113BB9A00CE3664 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F5D3AD682113BB9A00CE3664 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				F5D3AD662113BB9A00CE3664 /* AppDelegate.swift */,
 				F5D3AD682113BB9A00CE3664 /* ViewController.swift */,
 				F5D3AD6A2113BB9A00CE3664 /* Main.storyboard */,
+				89FEDECF2134E5B300F925EA /* StoresTableViewController.swift */,
 				8990A461212CCCEA004121FA /* MyListsViewController.swift */,
 				89FEDECD2134E06500F925EA /* SignupTableViewController.swift */,
 				F5D3AD6D2113BB9B00CE3664 /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 				8990A462212CCCEA004121FA /* MyListsViewController.swift in Sources */,
 				F5D3AD692113BB9A00CE3664 /* ViewController.swift in Sources */,
 				F5D3AD672113BB9A00CE3664 /* AppDelegate.swift in Sources */,
+				89FEDED02134E5B300F925EA /* StoresTableViewController.swift in Sources */,
 				89FEDECE2134E06500F925EA /* SignupTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
