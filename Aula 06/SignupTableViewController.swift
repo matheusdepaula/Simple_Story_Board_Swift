@@ -59,4 +59,10 @@ class SignupTableViewController: UITableViewController {
         dismiss(animated: true, completion: nil)
     }
     
+    @IBAction func signupAction(_ sender: Any) {
+        let storyboard = UIStoryboard(name: "Main", bundle: nil)
+        let profileVC = storyboard.instantiateViewController(withIdentifier: "userDetail")
+        
+        self.present(profileVC, animated: true, completion: nil)
+    }
 }

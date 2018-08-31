@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8990A462212CCCEA004121FA /* MyListsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8990A461212CCCEA004121FA /* MyListsViewController.swift */; };
+		89E999682138B51A0044FA6B /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E999672138B51A0044FA6B /* ProfileViewController.swift */; };
 		89FEDECE2134E06500F925EA /* SignupTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89FEDECD2134E06500F925EA /* SignupTableViewController.swift */; };
 		89FEDED02134E5B300F925EA /* StoresTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89FEDECF2134E5B300F925EA /* StoresTableViewController.swift */; };
 		F5D3AD672113BB9A00CE3664 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5D3AD662113BB9A00CE3664 /* AppDelegate.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		8990A461212CCCEA004121FA /* MyListsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyListsViewController.swift; sourceTree = "<group>"; };
+		89E999672138B51A0044FA6B /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		89FEDECD2134E06500F925EA /* SignupTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupTableViewController.swift; sourceTree = "<group>"; };
 		89FEDECF2134E5B300F925EA /* StoresTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoresTableViewController.swift; sourceTree = "<group>"; };
 		F5D3AD632113BB9A00CE3664 /* Aula 06.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Aula 06.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -66,6 +68,7 @@
 				89FEDECF2134E5B300F925EA /* StoresTableViewController.swift */,
 				8990A461212CCCEA004121FA /* MyListsViewController.swift */,
 				89FEDECD2134E06500F925EA /* SignupTableViewController.swift */,
+				89E999672138B51A0044FA6B /* ProfileViewController.swift */,
 				F5D3AD6D2113BB9B00CE3664 /* Assets.xcassets */,
 				F5D3AD6F2113BB9B00CE3664 /* LaunchScreen.storyboard */,
 				F5D3AD722113BB9B00CE3664 /* Info.plist */,
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				89E999682138B51A0044FA6B /* ProfileViewController.swift in Sources */,
 				8990A462212CCCEA004121FA /* MyListsViewController.swift in Sources */,
 				F5D3AD692113BB9A00CE3664 /* ViewController.swift in Sources */,
 				F5D3AD672113BB9A00CE3664 /* AppDelegate.swift in Sources */,
